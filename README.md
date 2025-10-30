@@ -18,7 +18,6 @@ Aktuell absolviere ich die Weiterbildung zum **Data Analyst (IHK)** mit dem Absc
 
 ---
 
-
 ## 🧠 Aktuelle Weiterbildung
 🎓 **Data Analyst (IHK)** – Abschluss: Februar 2026  
 📘 Schwerpunkte: Python, MySQL, Excel, Power BI, Machine Learning  
