@@ -11,9 +11,13 @@ Aktuell absolviere ich die Weiterbildung zum **Data Analyst (IHK)** mit dem Absc
 ## 📁 Meine Projekte
 | Projekt | Thema | Tools | Zeitraum |
 |----------|--------|--------|----------|
-| *(Hier später deine Projekte eintragen)* |  |  |  |
+| [Credit Risk Analysis](https://github.com/Thor100stud/credit-risk-analysis-mysql) | Regelbasierte Kreditbewertung | MySQL | 2025 |
+| [Bike Shop Dashboard](https://github.com/Thor100stud/bike-shop-excel-dashboard) | Verkaufs- und Profitabilitätsanalyse | Excel, Power Query | 2025 |
+| [Fraud Detection](https://github.com/Thor100stud/fraud-detection-powerbi) | Betrugserkennung im Zahlungsverkehr | Power BI | 2025 |
+| [Airbnb Market Analysis](https://github.com/Thor100stud/airbnb-market-analysis-python) | Preistreiber & Standortanalyse | Python | 2025 |
 
 ---
+
 
 ## 🧠 Aktuelle Weiterbildung
 🎓 **Data Analyst (IHK)** – Abschluss: Februar 2026  
