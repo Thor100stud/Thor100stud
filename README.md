@@ -8,7 +8,7 @@ Aktuell absolviere ich die Weiterbildung zum **Data Analyst (IHK)** mit dem Absc
 
 ---
 
-## 📁 Meine Projekte
+## 📁 Meine Projekte   
 | Projekt | Thema | Tools | Zeitraum |
 |----------|--------|--------|----------|
 | [Credit Risk Analysis](https://github.com/Thor100stud/credit-risk-analysis-mysql) | Regelbasierte Kreditbewertung | MySQL | 2025 |
