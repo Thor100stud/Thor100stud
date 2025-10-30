@@ -1,36 +1,36 @@
-# 👋 Willkommen auf meinem GitHub-Profil
+# 👋 Welcome to my GitHub Profile
 
-Ich bin **Thorsten Teetzen – Data Analyst (IHK)**  
-mit Fokus auf **📊 Datenanalyse, 📈 Predictive Modeling, 🧠 Machine Learning und 💼 Risikomanagement im Banking**.
+I am **Thorsten Teetzen – Data Analyst (IHK)**  
+focused on **📊 Data Analysis, 📈 Predictive Modeling, 🧠 Machine Learning, and 💼 Risk Management in Banking**.
 
-Seit mehreren Jahren arbeite ich international im Bereich Bankinstrumente und entwickle datengetriebene Lösungen für fundierte Geschäftsentscheidungen.  
-Aktuell absolviere ich die Weiterbildung zum **Data Analyst (IHK)** mit dem Abschluss im **Februar 2026**.
+For several years, I have worked internationally in the field of banking instruments, developing data-driven solutions to support strategic business decisions.  
+Currently, I am completing my **Data Analyst (IHK)** certification program, scheduled for **February 2026**.
 
 ---
 
-## 📁 Meine Projekte
-| Projekt | Thema | Tools | Zeitraum |
+## 📁 My Projects
+| Project | Topic | Tools | Period |
 |----------|--------|--------|----------|
-| *(Hier später deine Projekte eintragen)* |  |  |  |
+| *(Add your projects here later)* |  |  |  |
 
 ---
 
-## 🧠 Aktuelle Weiterbildung
-🎓 **Data Analyst (IHK)** – Abschluss: Februar 2026  
-📘 Schwerpunkte: Python, MySQL, Excel, Power BI, Machine Learning  
+## 🧠 Ongoing Education
+🎓 **Data Analyst (IHK)** – Graduation: February 2026  
+📘 Focus Areas: Python, MySQL, Excel, Power BI, Machine Learning  
 
 ---
 
-## 🌍 Über mich
-- 7 Jahre internationale Projekterfahrung im Bereich **Bankinstrumente & Data Analytics**  
-- Starker Fokus auf **Risikomanagement** und **analytische Entscheidungsunterstützung**  
-- Berufserfahrung in **Asien** und **Europa**  
-- Ziel: Tätigkeit im **Risikomanagement eines globalen Finanzunternehmens**
+## 🌍 About Me
+- 7 years of international project experience in **banking instruments & data analytics**  
+- Strong focus on **risk management** and **data-driven decision making**  
+- Professional experience across **Asia** and **Europe**  
+- Goal: A position in **Risk Management** at a **global financial institution**
 
 ---
 
-📫 **Kontakt:**  
-[LinkedIn-Profil](https://www.linkedin.com/in/thorsten-teetzen-744891350)
+📫 **Contact:**  
+[LinkedIn Profile](https://www.linkedin.com/in/thorsten-teetzen-744891350)
 
 ---
 
